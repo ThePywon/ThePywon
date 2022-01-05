@@ -20,6 +20,8 @@ Wanna know more about [how to run it](https://github.com/ProtagonistsWasTaken/cr
 A discord bot project about two bots that interact with each other
 Join the [Discord](https://discord.gg/ZZDMjpyQjk) or dm me (Pywon#3170) to know more about it!
 
+![img](https://cdn.discordapp.com/avatars/876585216402145310/fcfdd0de5cdf7446f7de76160973ba9e.png?size=1024)
+
 ### [Greed Mines](https://pywon.itch.io/beta)
 
 A game in the working, not much done yet tho  
@@ -31,6 +33,8 @@ Not at a playable state but might become something in the futur
 
 A horror game prototype  
 For now, it only has the environment down
+
+![img](https://img.itch.zone/aW1hZ2UvMTE5OTEwMy83MzQwMzIwLnBuZw==/original/zZuDwI.png)
 
 ## Contact me
 
