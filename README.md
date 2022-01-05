@@ -25,6 +25,8 @@ Join the [Discord](https://discord.gg/ZZDMjpyQjk) or dm me (Pywon#3170) to know 
 A game in the working, not much done yet tho  
 Not at a playable state but might become something in the futur
 
+![img](https://img.itch.zone/aW1hZ2UvMTA0MjA4MS81OTc0OTc2LnBuZw==/original/evHyOd.png)
+
 ### [Helpless Souls](https://pywon.itch.io/helpless-souls)
 
 A horror game prototype  
