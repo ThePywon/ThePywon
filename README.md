@@ -1,20 +1,37 @@
-Hey there!
-I'm an independent developper.
+# Independant developer
 
-I'm currrently working on multiple projects,
-from simple customized discord bots to commercial indie game.
-I am also working on my own custom javascript library/console at https://github.com/ThePywon/PywonConsole.
+* [Projects](#projects)
+* [Contact me](#contact-me)
 
-I'm currently learning some new skills everyday on multiple languages.
-I like to do stuff alone and learn it on my own.
+## Projects
 
-I'm not really looking to collaborate on any projects yet,
-altho I am welcoming with open arms anyone who wishes to help in any way.
+### [Crypto Versus](https://github.com/ProtagonistsWasTaken/crypto_versus)
 
-I am pretty decent in using platforms such as Unity, Atom, Github, Replit.
-I also know how to code in html, css, javascript, python, csharp.
+A multiplayer versus hacking simulation  
+An api that I am proud to have created  
+It is open source and I encourage you to check it out!
 
-Twitter (I dont use often)
-- @Pywon1
+(Have fun making mods of it)
 
-If you'd like to start any project with me, just reach out to me and I'll be glad to.
+Wanna know more about [how to run it](https://github.com/ProtagonistsWasTaken/crypto_versus#how-to-run)?
+
+### [Cypewu & Cypewu 2.0](https://discord.gg/ZZDMjpyQjk)
+
+A discord bot project about two bots that interact with each other
+Join the [Discord](https://discord.gg/ZZDMjpyQjk) or dm me (Pywon#3170) to know more about it!
+
+### [Greed Mines](https://pywon.itch.io/beta)
+
+A game in the working, not much done yet tho  
+Not at a playable state but might become something in the futur
+
+### [Helpless Souls](https://pywon.itch.io/helpless-souls)
+
+A horror game prototype  
+For now, it only has the environment down
+
+## Contact me
+
+* [Twitter](https://twitter.com/Pywon1)
+* Email (ThePywon@hotmail.com)
+* Discord (Pywon#3170)
