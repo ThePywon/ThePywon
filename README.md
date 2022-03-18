@@ -34,7 +34,7 @@ Not at a playable state but might become something in the futur
 A horror game prototype  
 For now, it only has the environment down
 
-<img src="https://img.itch.zone/aW1hZ2UvMTE5OTEwMy83MzQwMzIwLnBuZw==/original/zZuDwI.png" width="250px" height="200px"/>
+<img src="https://img.itch.zone/aW1hZ2UvMTE5OTEwMy83MzQwMzIwLnBuZw==/original/zZuDwI.png" width="256px" height="180px"/>
 
 ## Contact me
 
